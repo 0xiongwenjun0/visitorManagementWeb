@@ -1,0 +1,9 @@
+.visitorBox .listBox{
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+
+.infoList{
+    margin-top: 40px;
+}

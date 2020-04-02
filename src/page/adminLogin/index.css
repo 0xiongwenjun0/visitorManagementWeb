@@ -1,0 +1,7 @@
+.backIcon .backImag{
+    width: 0;
+    height: 0;
+    border-top: 10px transparent; 
+    border-bottom: 10px transparent; 
+    border-left: 20px black;
+}

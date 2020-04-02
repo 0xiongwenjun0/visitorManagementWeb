@@ -1,0 +1,41 @@
+.buttonBox{
+    border-right: 5px;
+    overflow: hidden;
+}
+.mainBox{
+    width: 100vw;
+}
+
+.formBox{
+    margin-top: 50px;
+    padding: 0 5px 0 5px;
+}
+.info{
+    font-size: 16px;
+    color: gray;
+}
+
+.title .app-logo{
+    width: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.title{
+    box-sizing: border-box;
+    border-right: 10px;
+    overflow: hidden;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.line{
+    overflow: hidden;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.forget{
+    float: right;
+}
+.signBox{
+    margin-top: 5px;
+}

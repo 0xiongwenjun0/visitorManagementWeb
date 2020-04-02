@@ -1,0 +1,19 @@
+.reasonInfo{
+    margin-top: 20px;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+.nothing{
+    padding: 10px 0;
+    color: gray;
+    background-color: transparent;
+}
+.reasonBox .text{
+    padding: 10px 0;
+}
+
+.titleBox .titleText{
+    padding: 10px 0;
+    color: #a5a5a5;
+}
